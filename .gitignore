@@ -1,0 +1,26 @@
+# Python byte-compiled files
+*.pyc
+__pycache__/
+
+# Virtual environment
+.env
+venv/
+env/
+
+# SQLite database file (if used locally)
+db.sqlite3
+
+# Media and static files (generated locally, generally not committed)
+#media/
+#static/
+
+# IDE-specific files (e.g., VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Operating system files
+.DS_Store # macOS
+# Add other OS-specific files if necessary
